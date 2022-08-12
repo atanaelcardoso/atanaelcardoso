@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center">Olá 👋🏾, Sou o Atanael Cardoso</h1>
+
+- 🚀 Desenvolvedor Web Jr.
+
+- 🌱 Atualmente estou aprendendo **Javascript, NodeJS, Typescript e SQL**
+
+- 🇧🇷 Born in Rio Grande do Norte, Brazil.
 
 <!--
 **atanaelcardoso/atanaelcardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
