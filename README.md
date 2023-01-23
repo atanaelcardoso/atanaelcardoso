@@ -2,7 +2,7 @@
 
 - 🚀 Desenvolvedor Web Jr.
 
-- 🌱 Atualmente estou aprendendo **Javascript, NodeJS, Typescript e SQL**
+- 🌱 Atualmente estou aprendendo **Javascript, NodeJS, Python, Typescript e SQL**
 
 - 🇧🇷 Born in Rio Grande do Norte, Brazil.
 
