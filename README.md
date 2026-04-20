@@ -4,7 +4,7 @@
 
  Me chamo Atanael Cardoso, sou estudante de desenvolvimento de software. Sempre estudando e desenvolvendo projetos pessoais e acadêmicos, disposto aprender e compartilhar o conhecimento!
 
- **Aberto a oportunidade remoto**
+ ### Aberto a oportunidade remoto
 
 ---
 
