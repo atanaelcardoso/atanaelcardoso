@@ -1,6 +1,6 @@
 #  Atanael Cardoso
 
-**`Desenvolvedor Web fullstack Jr`**
+**`Engenheiro de Software fullstack Jr`**
 
  Me chamo Atanael Cardoso, sou estudante de desenvolvimento de software. Sempre estudando e desenvolvendo projetos pessoais e acadêmicos, disposto aprender e compartilhar o conhecimento!
 
