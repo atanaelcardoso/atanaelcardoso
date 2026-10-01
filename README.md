@@ -1,98 +1,66 @@
 # Atanael Cardoso
 
-**Desenvolvedor de Software Júnior | Estudante de Análise e Desenvolvimento de Sistemas`**
+### Desenvolvedor de Software Júnior • Full Stack • JavaScript • TypeScript • React • Node.js
 
-Estudante de **Análise e Desenvolvimento de Sistemas na Universidade Potiguar (UnP)**, com foco em desenvolvimento de software e aplicações web.
+Desenvolvo aplicações web, APIs REST e projetos Full Stack.
+Atualmente curso **Análise e Desenvolvimento de Sistemas na Universidade Potiguar (UnP)**.
 
-Utilizo projetos acadêmicos e pessoais para desenvolver experiência prática em **desenvolvimento Full Stack, APIs, bancos de dados, arquitetura de software e boas práticas de código**.
+---
 
-## 🚀 Tecnologias
+### 🚀 Sobre Mim
 
-### Frontend
+- 💻 **Desenvolvedor de Software Júnior** com foco em desenvolvimento Full Stack e Web
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+- 🧠 Interesse em **arquitetura de software, código limpo, APIs e automação**
+- 🚀 Desenvolvendo experiência prática através de **projetos acadêmicos e pessoais**
+- 📚 Atualmente estudando **Desenvolvimento Full Stack e Inteligência Artificial**
 
-- JavaScript
-- TypeScript
-- React
-- HTML5
-- CSS3
+---
 
-### Backend
+### 🛠️ Tecnologias
 
-- Node.js
-- Express.js
-- Java
-- Spring Boot
+**Frontend:** HTML5 · CSS3 · JavaScript · TypeScript · React · Bootstrap
 
-### Banco de Dados
+**Backend:** Node.js · Express.js · Java · Spring Boot
 
-- MySQL
-- PostgreSQL
-- SQLite
-- Prisma ORM
+**Banco de Dados:** MySQL · PostgreSQL · SQLite · Prisma
 
-### Ferramentas e Práticas
+**Ferramentas:** Git · GitHub · Docker · Docker Compose
 
-- Git
-- GitHub
-- Docker
-- Docker Compose
-- APIs REST
-- MVC
-- Clean Architecture
+**Arquitetura:** APIs REST · MVC · Clean Architecture · CRUD
 
-## 💻 Projetos em Destaque
+---
 
-### Discord Clone
+### 🚀 Projetos em Destaque
 
-Aplicação **Full Stack** inspirada no Discord, desenvolvida com **React, Node.js, Express, Prisma e PostgreSQL**.
+- 💬 **Discord Clone** — Aplicação Full Stack desenvolvida com React, Node.js, Express, Prisma e PostgreSQL
+- 🍔 **Sistema de Gestão de Lanchonetes** — Sistema de gerenciamento desenvolvido com Java, Spring Boot e banco de dados
 
-O projeto trabalha conceitos de:
+---
 
-- APIs REST
-- CRUD
-- Arquitetura cliente-servidor
-- Modularização
-- Clean Architecture
-- Docker
-
-[🔗 Ver projeto no GitHub](https://github.com/atanaelcardoso/discord-clone)
-
-### Sistema de Gestão de Lanchonetes
-
-Projeto acadêmico voltado ao gerenciamento de:
-
-- Produtos
-- Pedidos
-- Clientes
-- Funcionários
-- Estoque
-
-Desenvolvido durante a evolução dos estudos com **Java, Spring Boot, banco de dados e desenvolvimento web**.
-
-[🔗 Ver projeto no GitHub](https://github.com/atanaelcardoso/api-lanchonete)
-
-## 📚 Atualmente Estudando
+### 📚 Atualmente Estudando
 
 - Desenvolvimento Full Stack
 - Arquitetura de Software
-- APIs REST
 - Docker
-- Integração de Sistemas
-- Inteligência Artificial e IA Generativa
+- APIs REST
+- Inteligência Artificial Generativa
 - RAG e Agentes de IA
-- Automação
-- Integração de APIs
+- Automação e Integração de APIs
 
-## 🎯 Objetivo Profissional
+---
 
-Busco minha primeira oportunidade profissional como **Desenvolvedor de Software Júnior, Estagiário ou Trainee**, com interesse em desenvolvimento **Full Stack, Backend e Web**.
+### 🎯 Objetivo Profissional
 
-Tenho interesse em ambientes nos quais possa **contribuir com o time, aprender com profissionais mais experientes e transformar meus projetos acadêmicos e pessoais em experiência prática**.
+Busco minha primeira oportunidade como **Desenvolvedor de Software Júnior, Estagiário ou Trainee**, com foco em **Desenvolvimento Full Stack, Backend e Web**.
 
-## 📫 Contato
+---
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/atanaelcardoso/)
-- 💻 [GitHub](https://github.com/atanaelcardoso)
+### 📫 Entre em Contato
+
+💼 [LinkedIn](https://www.linkedin.com/in/atanaelcardoso/)
+
+💻 [GitHub](https://github.com/atanaelcardoso)
 
  ### Aberto a oportunidade remoto
 
